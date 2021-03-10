@@ -192,8 +192,9 @@ Table A1: List of Players Being Removed
 |T. Perry|	17|	mid	|55|
 
 Table A2: List of Players Being Hired
-|name	|age|	club	|position	|2021 |rating|
-|Z. Ibrahimović	|37	|LA Galaxy	|forward	83|
+|name	|age|	club	|position |rating|
+| --- |--- |--- |--- |--- |
+|Z. Ibrahimović	|37	|LA Galaxy	|forward	|83|
 |Aduriz|	38|	Athletic Club de Bilbao	|forward|	81|
 |L. Modrić|	33	|Real Madrid	|mid|	89|
 |D. De Rossi|	35	|Boca Juniors|	mid	|81|
@@ -205,7 +206,7 @@ Table A2: List of Players Being Hired
 |N. Pallois	|31	|FC Nantes|	back	|78|
 |Bruno Alves|	37|	Parma|	back	|71|
 |Benjamin Meseira|	35	|Chapecoense	|back|	72|
-|M. Marić	|35|	FC Lugano	back	|66|
+|M. Marić	|35|	FC Lugano	|back	|66|
 |R. Jarstein|	34|	Hertha BSC|	keeper	|82|
 
 Table A3: The Upgraded Wolverhampton Wanderers Roster
